@@ -1,6 +1,6 @@
 ## Hi 👋 I’m Tanmay Patel
 
-Backend Software Engineer with ~2.5 years of experience building **scalable fintech backend systems**. I work on **high-performance APIs, microservices, and cloud-native systems**, with a strong focus on reliability and performance.
+Backend Software Engineer with 2+ years of experience building **scalable fintech backend systems**. I work on **high-performance APIs, microservices, and cloud-native systems**, with a strong focus on reliability and performance.
 
 ### 🛠 Tech
 Java (Spring Boot), Node.js (TypeScript), Python, REST APIs, Microservices, MongoDB, MySQL, AWS, Docker, CI/CD  
